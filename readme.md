@@ -1,0 +1,1 @@
+To run, enter `generatePRC_PhenomenologicalMouseCircadianPacemakerModel` at the MATLAB command prompt. A phase response curve will be generated showing the change in circadian phase of the model caused by a pulse of light at each circadian time. This code was developed and tested in MATLAB R2018a.
